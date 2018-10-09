@@ -323,6 +323,7 @@ background: linear-gradient(
 
 #logo h2 {
   font-family: 'Elsie Swash Caps', cursive;
+  margin: 0;
 }
 
 /*////////// MAIN SECTIONS //////////*/
@@ -335,7 +336,9 @@ section {
 
 /*////////// DETAILS //////////*/
 
-
+#details {
+  border-top:1px solid white;
+}
 
 #details div {
   height: 221px;
